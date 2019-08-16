@@ -1,7 +1,7 @@
 # dev
 研发管理工具
 ```
-tapd + gitlab + jenkins/gitlab-runner + nexus
+禅道 + gitlab + jenkins/gitlab-runner + nexus + sonar
 
 confluence/shimo/lanhuapp/wjx
 
