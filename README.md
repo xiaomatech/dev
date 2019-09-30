@@ -5,6 +5,9 @@
 
 confluence/shimo/lanhuapp/wjx
 
-https://www.tapd.cn/official/service_integration
+
+idea plugin
+
+Codegen/Element/go/intellivue/lombok/jrebel/python/vue.js/wxapp/bash/alibaba java/
 
 ```
