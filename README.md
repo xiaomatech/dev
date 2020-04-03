@@ -3,11 +3,11 @@
 ```
 禅道 + gitlab + jenkins/gitlab-runner + nexus + sonar
 
-confluence/shimo/lanhuapp/wjx
+confluence/lanhuapp/wjx
 
 
 idea plugin
 
-Codegen/Element/go/intellivue/lombok/jrebel/python/vue.js/wxapp/bash/alibaba java/
+Codegen/Translation/intellivue/lombok/Grep Console/python/vue.js/wxapp/bash/alibaba java/Statistic/alibaba cloud/RestfulToolkit/Free Mybatis plugin/GsonFormat
 
 ```
